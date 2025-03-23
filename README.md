@@ -1,1 +1,1 @@
-# odin-recipes
+Demonstrate of basic HTML knowlage and practice with git and github
