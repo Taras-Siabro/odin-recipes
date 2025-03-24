@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(255, 248, 202);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1, h2, .recepies, .other-recepies {
+    color:rgb(205, 171, 60);
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.recepies {
+    font-weight: 300px;
+    font-size: 20px;
+}
+
+.recepies2 {
+    font-size: 14px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+
+    
+}
+
+.explaining-recepie {
+    text-align: center;
+}
+
+
+
+.recepies-img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
